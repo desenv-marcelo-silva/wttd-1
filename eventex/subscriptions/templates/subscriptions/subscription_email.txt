@@ -1,0 +1,16 @@
+Hello!! How are you?
+
+Thank you for subscribe to Eventex.
+
+This is the data that you provide us on perform your subscribe:
+
+Name: {{ name }}
+CPF: {{ cpf }}
+email: {{ email }}
+Telefone: {{ phone }}
+
+Until 48 hours, our team will be touch you to proceed with your enroll.
+
+Best regards,
+
+Eventex
