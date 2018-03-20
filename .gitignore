@@ -9,3 +9,4 @@ staticfiles
 *.csv
 *.pdf
 ativa.sh
+.ipynb_checkpoints/
